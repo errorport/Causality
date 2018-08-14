@@ -1,6 +1,6 @@
 #Causality
 
-[Out facebook page]{https://fb.com/kolmogorovtoolbox}
+[Our facebook page](https://fb.com/kolmogorovtoolbox)
 
 Helegris (**Tímea Fekete**) and I (**Gergely Bencsik**) were on a routine-like ice cream tour in the downtown of Pécs during a break from our weekly rehearsal. We discussed glitch art as we knew it then. The topic was about databending and circuit bending, like when one puts electro-acoustic effects (like reverb, compressor, echo-cancellation etc.) on an analogue encoded video. So we decided to make something similar, with a distortion and a feedback delay. Python and OpenCV were very handy for this stuff, so the final form of the code was complete after approximately three hours of experimenting.
 
